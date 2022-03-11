@@ -1,2 +1,0 @@
-# ineuron-assignment
-assignment1
